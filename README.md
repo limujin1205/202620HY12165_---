@@ -10,8 +10,8 @@
 | 이름 | GitHub ID | 비고 |
 | :--- | :--- | :--- |
 | 임유진 | [@limujin1205](https://github.com/limujin1205) | |
-| (팀원 1) | @GitHub_ID | |
-| (팀원 2) | @GitHub_ID | |
+| 팀원 | [@apricity57-del](https://github.com/apricity57-del) | |
+| 팀원 | [@LEEEOJ](https://github.com/LEEEOJ) | |
 | (팀원 3) | @GitHub_ID | |
 
 ---
