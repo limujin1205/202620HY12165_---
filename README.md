@@ -10,9 +10,9 @@
 | 이름 | GitHub ID | 비고 |
 | :--- | :--- | :--- |
 | 임유진 | [@limujin1205](https://github.com/limujin1205) | |
-| 팀원 | [@apricity57-del](https://github.com/apricity57-del) | |
-| 팀원 | [@LEEEOJ](https://github.com/LEEEOJ) | |
-| 팀원 | [@circlerm](https://github.com/circlerm) | |
+| 김민정 | [@apricity57-del](https://github.com/apricity57-del) | |
+| 이어진 | [@LEEEOJ](https://github.com/LEEEOJ) | |
+| 이동구 | [@circlerm](https://github.com/circlerm) | |
 
 ---
 
